@@ -30,7 +30,7 @@
 ```
 ## 📜 License
 
-MIT License — DevilXteam MD
+MIT License — KINGSLEY-XMD TECH 
 
 <br/>
 
@@ -63,13 +63,11 @@ MIT License — DevilXteam MD
 
 
 <div align="center">
-#INSTALLATION PROCESS#
         
 # Termux setup
 ```pkg update && pkg upgrade -y
 pkg install git curl wget -y
-git clone
-# Make it executable
+git clone https://github.com/pokuahhnyarko-lang/KING_BLESS-X-TOOL.git
 chmod +x KING_BLESS X TOOL.bash
 bash KING_BLESS X TOOL.bash
 ```
@@ -79,3 +77,5 @@ bash KING_BLESS X TOOL.bash
 
 </div>
 <img width="821" height="537" alt="1000035540" src="https://github.com/user-attachments/assets/687d7060-c799-4602-abb3-190372181edf" />
+
+# FORK MY REPO 
