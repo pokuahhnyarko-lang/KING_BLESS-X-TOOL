@@ -62,7 +62,18 @@ MIT License — DevilXteam MD
 
 
 <div align="center">
-
+#INSTALLATION PROCESS#
+        👇
+  
+# Termux setup
+```pkg update && pkg upgrade -y
+pkg install git curl wget -y
+git clone
+# Make it executable
+chmod +x king_bless.sh
+```
+# Run it
+bash king_bless.sh
 
 
 <img src="https://img.shields.io/badge/MADE%20WITH-❤️%20BY%20D.KINGSLEY-TECH-ff1493?style=for-the-badge&labelColor=0a0a0f" alt="Made with love" />
