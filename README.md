@@ -65,6 +65,7 @@ MIT License — DevilXteam MD
 
 
 
-<img src="https://img.shields.io/badge/MADE%20WITH-❤️%20BY%20D.KUMAIL-ff1493?style=for-the-badge&labelColor=0a0a0f" alt="Made with love" />
+<img src="https://img.shields.io/badge/MADE%20WITH-❤️%20BY%20D.KINGSLEY-TECH-ff1493?style=for-the-badge&labelColor=0a0a0f" alt="Made with love" />
 
 </div>
+<img width="821" height="537" alt="1000035540" src="https://github.com/user-attachments/assets/687d7060-c799-4602-abb3-190372181edf" />
