@@ -1,4 +1,5 @@
 # KING_BLESS-X-TOOL
+
 <div align="center">
 
 <img width="900" height="900" alt="1000036340" src="https://github.com/user-attachments/assets/74c7cafb-0fec-43b4-bd7a-2e9ec3b9e763" />
@@ -63,17 +64,15 @@ MIT License — DevilXteam MD
 
 <div align="center">
 #INSTALLATION PROCESS#
-        👇
-  
+        
 # Termux setup
 ```pkg update && pkg upgrade -y
 pkg install git curl wget -y
 git clone
 # Make it executable
-chmod +x king_bless.sh
+chmod +x KING_BLESS X TOOL.bash
+bash KING_BLESS X TOOL.bash
 ```
-# Run it
-bash king_bless.sh
 
 
 <img src="https://img.shields.io/badge/MADE%20WITH-❤️%20BY%20D.KINGSLEY-TECH-ff1493?style=for-the-badge&labelColor=0a0a0f" alt="Made with love" />
